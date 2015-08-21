@@ -1,10 +1,10 @@
-Nashville Software School | Cohort 9 Class Project
+# Nashville Software School | Cohort 9 Class Project
 
-FEATURE: @meBro Sign-In Authentication, using Passport to authenticate users with Twitter.
+## FEATURE:
+@meBro Sign-In Authentication, using Passport to authenticate users with Twitter.
 
-TEAM:
+## CREDITS:
+Bryan Duplantis <duplantis@gmail.com>
+Jennifer Jones <jybjones@gmail.com>
 
-Bryan Duplantis <duplantis@gmail.com> <@duplantis>
-Jennifer Jones
-
-With helpful assistance from the scotch.io tutorial series: Complete Guide to Node Authentication.
+### With helpful assistance from the scotch.io tutorial series: Complete Guide to Node Authentication.
