@@ -1,5 +1,4 @@
-# Nashville Software School |
-Cohort 9 Class Project
+# Nashville Software School | Cohort 9 Class Project
 
 ## FEATURE:
 @meBro Sign-In Authentication, using Passport to authenticate users with Twitter.
